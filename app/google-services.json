@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "977581332523",
+    "firebase_url": "https://chatbot-8082b.firebaseio.com",
+    "project_id": "chatbot-8082b",
+    "storage_bucket": "chatbot-8082b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977581332523:android:518238385ed4dd28",
+        "android_client_info": {
+          "package_name": "com.example.alok.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977581332523-j01ifne76qf92ssn0f7g0ba83885cqfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alok.chatbot",
+            "certificate_hash": "fd301943b54bc3d1775bf61d5ba9e8d676a47c1c"
+          }
+        },
+        {
+          "client_id": "977581332523-q2mc1uijnqek7ssvkejkovokmnhvtsin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEPvb3S6D1bCf9BDC8L0U1w0nWPIgCxes"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977581332523-q2mc1uijnqek7ssvkejkovokmnhvtsin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
